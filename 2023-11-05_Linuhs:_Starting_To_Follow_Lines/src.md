@@ -14,7 +14,8 @@ The robot was powered by a 9V rechargeable battery and regulated to 3.3V for the
 I used Platformio (w/ arduino hal) to code the STM32, as I had to be able to program on school computers. The robot calculates how far off it is from the line by checking which sensor is reading a black ground, and uses the error multiplied by a experimentally-derived constant to adjust the current motor speeds to turn left or right.
 
 ## structure
-A thin 3D-printed frame held the sensor array, protoboard, battery and motors mounts. This created a lightweight and robust-enough structure, but if I'd make the sensor area a lot thicker and change the screw holes to work better with the bolts I used. I designed the frame after sketching the dimensions in Fusion 360, and printed it on my Ender 5 Pro.
+A thin 3D-printed frame held the sensor array, protoboard, battery and motors mounts. This created a lightweight and robust-enough structure, but if I'd make the sensor area a lot thicker and change the screw holes to work better with the bolts I used. I designed the frame after sketching the dimensions in Fusion 360, and printed it on my Ender 5 Pro.  
+Model and source on the [github repo](https://github.com/AashvikTyagi/Linuhs/tree/main)
 
 ## testing
 I had 2 tracks, both 4'x4', flex-printed. I made the designs myself, and they were very useful in tuning and preparing.  
