@@ -1,6 +1,6 @@
-# 2024-03-08_Trying Out Selenium With LLMs
+# Trying Out Selenium (python) With an LLM site
 
-Lately, I wanted to experiment with Selenium for a web-scraping idea I had.  
+Lately, I wanted to experiment with [Selenium](https://www.selenium.dev/documentation/) for a web-scraping idea I had.  
 Also, the python library I'd been using for a shell text completion utility, [freeGPT](https://github.com/Ruu3f/freeGPT), didn’t support context across messages.
 
 For these two reasons, I used Selenium to create a [Python script](https://github.com/AashvikTyagi/pyseleniyouchat/blob/main/chatter-sample.py) that automates browser interactions with `you.com`.
