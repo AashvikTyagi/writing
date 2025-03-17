@@ -1,6 +1,6 @@
 # Killer Insect Droid Automation, or KIDA
 
-![Robot Insect Side View](assets/KIDA.webp)
+![Robot Insect Side View](assets/kida.webp)
 
 I built a small robot called KIDA. It’s a quadruped with some fun inspiration from [Martedi's Walter Photovore](https://www.hackster.io/studikasus/walter-the-arduino-photovore-insect-708207) and [BEAM robotics](solarbotics.net). The base is a power bank, and it's powered by 5 MG90 servos – one for each leg and one to rotate the hip of the hind leg. I used an Arduino Nano and HC05 Bluetooth module mounted on a breadboard.
 
