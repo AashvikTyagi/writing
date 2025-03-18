@@ -1,6 +1,8 @@
 # Linuhs
 This is to document experience till now with building a line following robot [Linuhs] and taking it to win a competition!
 
+![Robot Picture](assets/linuhs.webp)
+
 ## hardware
 The core of Linuhs was a WeAct Black Pill board (STM32f411CEU6), but an Arduino Nano could have easily handled the task.
 
@@ -18,6 +20,8 @@ A thin 3D-printed frame held the sensor array, protoboard, battery and motors mo
 
 ## testing
 I had 2 tracks, both 4'x4', flex-printed. I made the designs myself, and they were very useful in tuning and preparing.  
+
+![Line Following Robot](assets/following.webp)
 
 ## competing
 I took Linuhs to Exun, an interschool competition, Exun, where it competed against others' creations.  
