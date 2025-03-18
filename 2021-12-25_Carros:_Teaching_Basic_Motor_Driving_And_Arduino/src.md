@@ -1,10 +1,9 @@
 # Carros, Carros-Obstacle, and Carros-BT
-
 Arduino is one of the most common platforms used to teach beginner robotics, with its easy-to-understand use of C, wide hardware compatibility, and intuitive abstractions allowing one to quickly get started making projects wether self-taught or with an instructor before, if ever, moving on to something more low-level and fast.
 
 Two-wheeled car robots are a great way to introduce robotics concepts to students. They are easy to understand while offering many possibilities for expansion and modification depending on interest of the learner. The simplicity of the two-wheeled design allows beginners to learn about h-bridges, motor control, sensor integration, and basic programming skills that are foundational for more complex robotics projects.
 
-I created three different types of robotic cars to showcase a basic robot concept and provide a practical experience.
+I created three different variation of the classic robotic car to showcase a basic robot concept and provide a practical experience.
 
 You can view the source code and video links [**here**](https://github.com/AashvikTyagi/Carros).
 
