@@ -5,4 +5,4 @@ I built a small robot called KIDA. It’s a quadruped with some fun inspiration 
 
 The legs are made from cut-up coat hangers bent to shape, with hot glue as feet. Everything's held together with different types of glue – lots of hot glue, some MSeal to attach the legs to the motors, and even a phone holder for the hip. It’s not pretty, but I was happy to see it work with the gait I designed!
 
-Video of the insect in action [here](https://youtu.be/_RdcMdsxoMY).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_RdcMdsxoMY?si=zOfF6VK7_f9yRzko"></iframe>
