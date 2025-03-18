@@ -44,6 +44,6 @@ Some ideas I want to incorporate into my next line follower are:
 - bluetooth for debugging and tuning
 - neural network line classification?
 - polyurethane robot wheels
-- a [lot](https://github.com/michalnand/motoko_uprising) of [the](https://github.com/michalnand/motoko_uprising_new) ideas [from](https://github.com/michalnand/motoko_ice_dragon) michalnand's [works](https://github.com/michalnand/motoko_ice_dragon_x)
+- a **[lot](https://github.com/michalnand/motoko_uprising)** of **[the](https://github.com/michalnand/motoko_uprising_new)** ideas **[from](https://github.com/michalnand/motoko_ice_dragon)** michalnand's **[works](https://github.com/michalnand/motoko_ice_dragon_x)**
 
 Hope you learned something too.
