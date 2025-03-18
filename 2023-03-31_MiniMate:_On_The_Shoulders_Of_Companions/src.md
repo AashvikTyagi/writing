@@ -1,5 +1,4 @@
 # MiniMate
-
 Minimate, developed for ATL Marathon '23 by Aashvik Tyagi and Vivaan Mansukhani, is an open-source companion robot to help people overcome depression.
 
 To start off, _depression is horrible_. Depression makes common tasks difficult and life seem uninteresting, and we'd rather it not be. In essence, what we want to is help those depressed.
