@@ -4,7 +4,7 @@
 #### Quaternary Header
 #### Quinary Header
 
-Paragraph of **bold** and *italic* and ***both*** and [link](https://wiby.org) and `Inline code.`.
+Paragraph of **bold** and *italic* and ***both*** and [link](https://wiby.org) and `Inline code`.
 
 - Item 1
 - Item 2
