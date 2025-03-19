@@ -8,9 +8,4 @@ The idea was for Geek Code to encompass all the attributes of a 'geek', and this
 
 Of course, being this old in an internet that moves so fast, it's now incredibly dated and rarely seen outside of programmers' "about me" sections. Here's mine: 
 
-```
------BEGIN GEEK CODE BLOCK-----
-Version: 3.1
-GCS/E/IT d- s: a? C+++>++$ ULC*++>++++$ P+? L++>++++$ !E- W+++>++$ !N+ !o-- K++>++++$ !w--- !O- M+>$ !V- !PS+? PE Y+ !PGP++ !t !5 !X R tv>$ b+(++)>$ DI D++(+)>$ G e->+++++ h--()>++ !r?>$ !y?
-------END GEEK CODE BLOCK------
-```
+`GCS/E/IT d- s: a? C+++>++$ ULC*++>++++$ P+? L++>++++$ !E- W+++>++$ !N+ !o-- K++>++++$ !w--- !O- M+>$ !V- !PS+? PE Y+ !PGP++ !t !5 !X R tv>$ b+(++)>$ DI D++(+)>$ G e->+++++ h--()>++ !r?>$ !y?`
