@@ -24,8 +24,8 @@ I had 2 tracks, both 4'x4', flex-printed. I made the designs myself, and they we
 ![Line Following Robot](assets/following.webp)
 
 ## competing
-I took Linuhs to Exun, an interschool competition, Exun, where it competed against others' creations.  
-While my robot definitely had the most potential, advanced hardware, and unique design and the only non-AVR microcontroller at the competition, I know I haven't used them well and can't improve without completely disassembling the bot—something I don't want to do, as it could risk breaking my working, if mediocre, bot. Anyway, the judges were thoroughly impressed and I came second.  
+I took Linuhs to Exun, an interschool competition, where it competed against others' creations.  
+While my robot definitely had the most potential, advanced hardware, and unique design and the only non-AVR microcontroller at the competition, I know I haven't used them well and can't improve without completely disassembling the bot—something I don't want to do, as it could risk breaking my working, if mediocre, bot. Anyway, the judges were thoroughly impressed and I [came second](https://docs.google.com/document/d/1HpKa5A2AOPB4ArhohpBf7F20Kqb_J4NzRACcuJNZ5Fw/edit?tab=t.0).  
 
 ## looking back and ahead
 Some of my design choices had limited the robot's potential.  
