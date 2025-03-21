@@ -36,11 +36,6 @@ fn main() {
 ```
 
 ```
-int i;main(){for(;i["]<i;++i){--i;}"];read('-'-'-',i+++"hell\
-o, world!\n",'/'/'/'));}read(j,i,p)void*i;{write(j/p+p,i---j,(int)i/(int)i);}
-```
-
-```
 inp = open('2/input','r').read().split('\n')
 s1, s2 = 0, 0
 def safe(lvs) -> bool:
