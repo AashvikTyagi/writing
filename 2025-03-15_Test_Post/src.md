@@ -6,16 +6,16 @@
 
 Paragraph of **bold** and *italic* and ***both*** and [link](https://wiby.org) and `Inline code`.
 
-- Item 1  
-- Item 2  
-    - Sub-item 2.1  
-    - Sub-item 2.2  
+- Item 1
+- Item 2
+    - Sub-item 2.1
+    - Sub-item 2.2
 - Item 3
 
-1. First item  
-2. Second item  
-    1. Nested item 2.1  
-    2. Nested item 2.2  
+1. First item
+2. Second item
+    1. Nested item 2.1
+    2. Nested item 2.2
 3. Third item
 
 > Blockquote.
