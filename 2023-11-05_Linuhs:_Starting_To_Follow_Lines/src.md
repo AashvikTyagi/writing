@@ -34,16 +34,16 @@ Now, with some more experience in line following, I'm going to be building a new
 ## specifically
 Some ideas I want to incorporate into my next line follower are:
 
-- PCB manufacturing and SMD assembly
-- similar motors
-- a sensor array wider than the motor 'track width' so as to not lose the line as easily
-- longer robot to react fast to turns
-- white LEDs with phototransistors to follow colorful lines, and colorful tracks for the same
-- break detection, line search
-- encoders on the motors, with the motors having their own PID speed-pwm control loop
-- bluetooth for debugging and tuning
-- neural network line classification?
-- polyurethane robot wheels
+- PCB manufacturing and SMD assembly  
+- similar motors  
+- a sensor array wider than the motor 'track width' so as to not lose the line as easily  
+- longer robot to react fast to turns  
+- white LEDs with phototransistors to follow colorful lines, and colorful tracks for the same  
+- break detection, line search  
+- encoders on the motors, with the motors having their own PID speed-pwm control loop  
+- bluetooth for debugging and tuning  
+- neural network line classification?  
+- polyurethane robot wheels  
 - a **[lot](https://github.com/michalnand/motoko_uprising)** of **[the](https://github.com/michalnand/motoko_uprising_new)** ideas **[from](https://github.com/michalnand/motoko_ice_dragon)** michalnand's **[works](https://github.com/michalnand/motoko_ice_dragon_x)**
 
 Hope you learned something too.
