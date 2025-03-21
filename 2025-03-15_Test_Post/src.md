@@ -8,14 +8,14 @@ Paragraph of **bold** and *italic* and ***both*** and [link](https://wiby.org) a
 
 - Item 1  
 - Item 2  
-&ensp;- Sub-item 2.1  
-&ensp;- Sub-item 2.2  
+    - Sub-item 2.1  
+    - Sub-item 2.2  
 - Item 3
 
 1. First item  
 2. Second item  
-&ensp;1. Nested item 2.1  
-&ensp;2. Nested item 2.2  
+    1. Nested item 2.1  
+    2. Nested item 2.2  
 3. Third item
 
 > Blockquote.
