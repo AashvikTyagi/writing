@@ -7,6 +7,7 @@ The legs are made from cut-up coat hangers bent to shape, with hot glue as feet.
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/_RdcMdsxoMY" allow="clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
 
+\
 Now that I have a 3d printer, I'm working on making another quadruped. A 12dof quadruped with servo actuators, inspired by the Petoi robots. Here's a preview of the protoboard I just soldered together for the power distribution and voltage regulation for the servos and arduino nano:
 
 ![proto board with soldered wires](assets/12dof-proto.webp)
