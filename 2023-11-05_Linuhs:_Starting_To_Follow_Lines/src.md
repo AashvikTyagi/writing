@@ -1,14 +1,16 @@
 # Linuhs
 This is to document experience till now with building a line following robot [Linuhs] and taking it to win a competition!
 
-![Robot Picture](assets/linuhs.webp)
+![robot view](assets/linuhs.webp)
 
 ## hardware
 The core of Linuhs was a WeAct Black Pill board (STM32f411CEU6), but an Arduino Nano could have easily handled the task.
 
 Two N20 motors, driven by a DRV8833 motor driver, were rated for 1000rpm at 6V. Powered at the 9V I was supplying them, they could have been ran at higher speeds. The DRV8833 was unique in using the same pins for both PWM and direction control, unlike traditional brushed motor drivers.
 
-For line following, I used an HY-S301 sensor array, which has 8 IR emitter-transistor pairs to detect ground color via reflected IR light. While often mislabelled online as a Pololu QTR sensor, it’s a basic analog sensor with power, ground, enable, and 8 analog outputs.
+For line following, I used an HY-S301 sensor array, which has 8 IR emitter-transistor pairs to detect ground color via reflected IR light. While often mislabelled online as a Pololu QTR sensor, it’s a basic analog sensor with power, ground, enable, and 8 analog outputs.  
+Here's a picture of the hand-wired sensor array I made on a protoboard and originally intended on using before it broke:
+![sensor array on protoboard](assets/proto-sensor-array.webp)
 
 The robot was powered by a 9V rechargeable battery and regulated to 3.3V for the MCU and sensors by an LM2596 buck converter.
 
@@ -21,7 +23,7 @@ A thin 3D-printed frame held the sensor array, protoboard, battery and motors mo
 ## testing
 I had 2 tracks, both 4'x4', flex-printed. I made the designs myself, and they were very useful in tuning and preparing.  
 
-![Line Following Robot](assets/following.webp)
+![robot following line track on floor](assets/following.webp)
 
 ## competing
 I took Linuhs to Exun, an interschool competition, where it competed against others' creations.  
