@@ -11,6 +11,7 @@ The shell has been designed in Fusion 360 and 3d-printed on an Ender 5 Pro, with
 You can view, edit, and print the `.f3d` model from [the qlock github repo](https://github.com/AashvikTyagi/qlock/blob/main/Qlok%20v131.f3d).
 
 I write this in retrospect three years later and can't find pictures of the clock, so here are some pictures of the individual printed brackets:
+
 ![display module in 3d printed holder](assets/qlock-display.webp)
 ![3d printed display module holder on printer bed](assets/qlock-print.webp)
 
