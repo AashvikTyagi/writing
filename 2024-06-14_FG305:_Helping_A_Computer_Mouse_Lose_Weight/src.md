@@ -22,6 +22,6 @@ Here's a WIP picture:
 
 ![view of mouse mod being designed](assets/wip-pcb.webp)
 
-This mouse&mdash; despite being a useful learning experience about minimizing weight while maintaining sufficient structural integrity, hand ergonomics, and reverse-engineering something I don't have blueprint for&mdash; isn't perfect or completely fit for everyday use: aside from being an imperfect print on an untuned printer, some design problems include suboptimal glide positions, the need for any user to adapt to my mouse grip, and the fact that in order to get a good click one must, err, break the print as I've shown in the video.
+This mouse&mdash; despite being a useful learning experience about minimizing weight while maintaining sufficient structural integrity, hand ergonomics, and modding existing hardware&mdash; isn't perfect or completely fit for everyday use: aside from being an imperfect print on an untuned printer, some design problems include suboptimal glide positions, the need for any user to adapt to my mouse grip, and the fact that in order to get a good click one must, err, break the print as I've shown in the video.
 
 <sub>time to design my own mouse PCB from scratch!</sub>
