@@ -15,4 +15,4 @@ I write this in retrospect three years later and can't find pictures of the cloc
 ![display module in 3d printed holder](assets/qlock-display.webp)
 ![3d printed display module holder on printer bed](assets/qlock-print.webp)
 
-I later found myself not using the clock, and as many of my projects end up, Qlock was dissassembled. I re-used the display and microcontroller to create a [working demo of using LED matrices as touchscreens](/#2024-05-14_Makeshift_Touch_Sensitive_LED_Matrices) with light level sensing. After that, it was used in a [Game of Life trinket](#2024-11-02_GOLWay72:_A_Conway's_Game_Of_Life_Trinket).
+I later found myself not using the clock, and as many of my projects end up, Qlock was dissassembled. I re-used the display and microcontroller to create a [working demo of using LED matrices as touchscreens](/#2024-05-14_Makeshift_Touch_Sensitive_LED_Matrices) with light level sensing. After that, it was used in a [Game of Life trinket](/#2024-11-02_GOLWay72:_A_Conway's_Game_Of_Life_Trinket).
