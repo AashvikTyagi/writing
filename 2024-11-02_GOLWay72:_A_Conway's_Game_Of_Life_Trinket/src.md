@@ -7,6 +7,7 @@ give it some time
 
 markdown video test:
 
+<video autoplay><source src="assets/display.webm" type="video/webm"></video>
 
 ![display showing animated cell automaton](assets/display.webm)
 
