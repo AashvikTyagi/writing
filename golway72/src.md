@@ -18,6 +18,7 @@ Written in C (I used PlatformIO), it begins with a random state and resets every
 Given that it starts from a (pseudo-)random state, it's interesting how often it happens to generate well-documented, [known patterns](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Examples_of_patterns)! For example, here's an infinite [glider](https://en.wikipedia.org/wiki/Glider_(Conway%27s_Game_of_Life)):
 
 ![glider pattern on led display](assets/glider.webp)
+
 ![oscillating led on display](assets/oscillator.webp)
 
 Making this was trivial, and it's pretty fun to look at.
