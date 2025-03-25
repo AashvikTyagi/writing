@@ -3,6 +3,7 @@
 
 Mathematician John Horton Conway's Game of Life is a cellular automaton designed by him in 1970, featuring populated and dead cells on an infinite 2d square grid. Each 'tick', the state of a cell changes depending on the number of neighbours it had in the previous tick, simulating life in a community.  
 The specific conditions are:
+| neigh  | state |
 |--------|-------|
 | <2     | dies  |
 | 2 or 3 | lives |
