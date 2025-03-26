@@ -11,7 +11,7 @@ O O O O O O O O
 ```
 
 I wrote a simple 25loc othello-playing script for an online hackathon-style competition.
-For giggles, I decided to forego any strategy and leave the bot to greedily pick the most instantly-gratifying disc that'd flank the most discs of the opponent.
+For shits, I decided to forego any strategy and leave the bot to greedily pick the most instantly-gratifying disc that'd flank the most discs of the opponent.
 
 You can view the script [here](https://github.com/AashvikTyagi/eagerthello/blob/main/bot.py) along with scripts to test it [against a human](https://github.com/AashvikTyagi/eagerthello/blob/main/test-human.py) and to [play against itself](https://github.com/AashvikTyagi/eagerthello/blob/main/test-bot.py).
 

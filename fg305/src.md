@@ -14,11 +14,11 @@ Photo of an older version fresh on the print bed:
 
 ![view of mouse mod on 3d printer bed plate](assets/print-bed.webp)
 
-I attached the original PCB to the frame using some of the included screws, an AAA battery,and  a phillips #00 screwdriver. The assembly, which I've shown in detail in the video, involved screwing in the PCB, then switches, then battery and clicks.
+I attached the original PCB to the frame using some of the included screws and an AAA battery. The assembly, which I've shown in detail in the video, involved screwing in the PCB, then switches, then battery and clicks.
 
 From adding the weight of parts measured by others and some educated guessing, the final weight of the mouse is about 29 grams, or 32 grams with scroll wheel. That's incredibly light, and quite an extreme improvement from the original ~ 90 grams!
 
-Here's a WIP picture:
+Here's the WIP:
 
 ![view of mouse mod being designed](assets/wip-pcb.webp)
 

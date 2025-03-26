@@ -9,4 +9,4 @@ The demo here works by having an STM32f103 'Blue Pill' board rapidly illuminatin
 
 By knowing which pixels' light was blocked from reaching the photoresistor, the program I wrote in STM32CubeIDE could send the computer, over serial, which cells were blocked. For synchronizing the sensing to work reliably, I ended up slowing down the LED speed drastically.
 
-Overall, I was happy to see it work, and wonder what a real life use case could be, other than re-using existing non-touchscreen hardware.
+I'm happy to see it work, and wonder what a real life use case could be, other than re-using existing non-touchscreen hardware.
