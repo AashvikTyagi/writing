@@ -24,7 +24,7 @@ A thin 3D-printed frame held the sensor array, protoboard, battery and motors mo
 ## testing
 I had 2 tracks, both 4'x4', flex-printed. I made the designs myself, and they were very useful in tuning and preparing.  
 
-![robot following line track on floor](assets/following.webp)
+![robot following line track on floor](assets/following.avif)
 
 ## competing
 I took Linuhs to Exun, an interschool competition, where it competed against others' creations.  
