@@ -10,7 +10,7 @@ This clock is able to keep track of time when unpowered by the use of the backup
 The shell has been designed in Fusion 360 and 3d-printed on an Ender 5 Pro, with four screws being used to attatch the display half to the electronics half and more to hold in the display. The screw-holes are self-tapping and shouldn't be overdriven.  
 You can view, edit, and print the `.f3d` model from [the qlock github repo](https://github.com/AashvikTyagi/qlock/).
 
-Fast forward three years and I'm writing this in retrospect, and I can’t find pictures of the clock, so here’s a glimpse of the individual printed brackets instead. Aren’t you lucky?
+Fast forward three years, I'm writing this in retrospect, and I can’t find pictures of the clock, so here’s a glimpse of the individual printed brackets instead. Aren’t you lucky?
 
 ![display module in 3d printed holder](assets/qlock-display.webp)
 ![3d printed display module holder on printer bed](assets/qlock-print.webp)
