@@ -10,8 +10,8 @@
 ---
 - `2024-06-14` [FG305: Helping A Computer Mouse Lose Weight](/#fg305)
 ---
-- `2024-05-14` [Makeshift Touch Sensitive LED Matrices](/---
-#led-matrix-touch)
+- `2024-05-14` [Makeshift Touch Sensitive LED Matrices](#led-matrix-touch)
+---
 - `2024-03-08` [Trying Out Selenium With LLMs](/#selenium-llm)
 ---
 - `2023-11-05` [Linuhs: Starting To Follow Lines](/#linuhs)
