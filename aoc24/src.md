@@ -9,6 +9,13 @@ I competed on the [veloren](https://gitlab.com/veloren/dev/veloren) leaderboard 
 
 ![veloren leaderboard rank for aoc](assets/rank.avif)
 
-I solved AoC in python, and you can view my solutions on the [github repo](https://github.com/AashvikTyagi/aoc24). I've not uploaded all of them yet, as I'm going to clean each of them up and upload slowly.
+I solved AoC in python, and you can view my solutions on the [github repo](https://github.com/AashvikTyagi/aoc24). I've not uploaded all of them yet, as I'm going to clean each of them up.
 
-It was enjoyable.
+It was enjoyable!
+
+```
+   *
+  >o<
+ >@>0<
+>0>o<@<
+```
