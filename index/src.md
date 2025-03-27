@@ -10,5 +10,5 @@
 - [2023-03-31 MiniMate: On The Shoulders Of Companions](/#minimate)
 - [2022-10-04 Qlock: A MAX7219 LED Desk Clock](/#qlock)
 - [2022-03-22 KIDA: To Make A Quadruped](/#kida)
-- [2021-12-25 Carros: Teaching Basic Motor Driving And Arduino](/#carros)
+- [2021-12-25 Carros: Teaching Motor Driving And Arduino](/#carros)
 - [2010-04-25 A Brief History Of Geek Code](/#geek)
