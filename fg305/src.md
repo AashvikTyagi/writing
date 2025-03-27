@@ -10,7 +10,7 @@ I've made a G305 mod that turns it into a 29 gram fingertip-grip 'mouse'.
 The `.f3d` file is available on the [fg305 github repo](https://github.com/AashvikTyagi/fg305). You'll need to modify this to use any glides other than [mine](https://amzn.in/d/gHAK3AG).
 
 The 3d-printed parts were made on an Ender 5 Pro and constitute the frame and clicks I designed in Fusion 360 and a [battery holder by MatNS](https://www.thingiverse.com/thing:4725120).
-Photo of an older version fresh on the print bed:
+Here's an older version fresh on the print bed:
 
 ![view of mouse mod on 3d printer bed plate](assets/print-bed.webp)
 

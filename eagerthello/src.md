@@ -1,4 +1,4 @@
-# Greedythello
+# Eagerthello
 ```
 O O O O O O O O
 O O ■ ■ ■ ■ O O
