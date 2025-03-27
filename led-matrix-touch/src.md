@@ -3,7 +3,7 @@ I recently had the idea to use low-dpi displays and light level sensing to creat
 
 I decided to make a demo of my idea using the MAX7219-controlled 8x32 led matrix from [Qlock](/#qlock) (which later went into [this](/#golway72)!).
 
-The demo here works by having an STM32f103 'Blue Pill' board rapidly illuminating each pixel of the display one after the other and use ubiquitous LDR resistors to check wether any light was sensed (after an initial ambient light calibration) at each moment. Here's an example clip:
+The demo here works by having an STM32f103 'Blue Pill' board rapidly illuminating each pixel of the display one after the other and use ubiquitous LDR resistors to check whether any light was sensed (after an initial ambient light calibration) at each moment. Here's an example clip:
 
 ![led matrix display](assets/display.webp)
 
