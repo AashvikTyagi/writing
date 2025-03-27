@@ -3,12 +3,12 @@
 
 Mathematician John Horton Conway's Game of Life is a cellular automaton designed by him in 1970, featuring populated and dead cells on an infinite 2d square grid. Each 'tick', the state of a cell changes depending on the number of neighbours it had in the previous tick, simulating life in a community.  
 The specific conditions are:
-| neigh   | state |
-|---------|-------|
-| <2      | dies  |
-| 2 or 3  | lives |
-| ≥4      | dies  |
-| 3       | born  |
+| neigh  | state |
+|--------|-------|
+| <2     | dies  |
+| 2 or 3 | lives |
+| ≥4     | dies  |
+| 3      | born  |
 
 
 I've been interested in the Game of Life since I first read about it, and thought it fairly easy to implement in software. So, using a display and 328p clone board I [had](/#led-matrix-touch) from a previous [project](/#qlock), I made a small desk trinket of sorts to 'mire.

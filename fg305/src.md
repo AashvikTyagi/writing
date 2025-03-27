@@ -1,4 +1,4 @@
-# Turning the Logitech G305 into a <30g feather of a mouse
+# Helping the Logitech G305 Lose Weight: Transformation into a <30g Feather of a Mouse
 ![view of mouse mod 3d model](assets/3d-cad.webp)
 
 I've made a G305 mod that turns it into a 29 gram fingertip-grip 'mouse'.
