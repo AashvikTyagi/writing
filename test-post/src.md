@@ -20,7 +20,7 @@ Paragraph of **bold** and *italic* and ***both*** and [link](https://wiby.org) a
 
 > Blockquote.
 
-```rust
+```
 fn main() {
     let data = vec![1, 2, 3, 4, 5];
     let sum: i32 = data.iter().map(|x| x * 2).filter(|&x| x % 3 == 0).sum();
@@ -35,7 +35,7 @@ fn main() {
 }
 ```
 
-```python
+```
 inp = open('2/input','r').read().split('\n')
 s1, s2 = 0, 0
 def safe(lvs) -> bool:
