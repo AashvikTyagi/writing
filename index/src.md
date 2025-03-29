@@ -1,26 +1,15 @@
-2025:
-- [Test Post](/#test-post)
-
-2024:
-- [Advent Of Code 2024](/#aoc24)
-- [A Simple Greedy Othello Bot In Python](/#eagerthello)
-- [GOLWay72: A Conway's Game Of Life Trinket](/#golway72)
-- [BLON BL-03: In A Sentence](/#blon-bl03)
-- [FG305: Helping A Computer Mouse Lose Weight](/#fg305)
-- [Makeshift Touch Sensitive LED Matrices](#led-matrix-touch)
-- [Trying Out Selenium With LLMs](/#selenium-llm)
-
-2023:
-- [Linuhs: Starting To Follow Lines](/#linuhs)
-- [MazeBeetle: An Attempt To Micromouse](/#mazebeetle)
-- [MiniMate: On The Shoulders Of Companions](/#minimate)
-
-2022:
-- [Qlock: A MAX7219 LED Desk Clock](/#qlock)
-- [KIDA: To Make A Quadruped](/#kida)
-
-2021:
-- [Carros: Teaching Motor Driving And Arduino](/#carros)
-
-Other:
-- [A Brief History Of Geek Code](/#geek)
+- <small>`2025-03-15`</small> [Test Post](/#test-post)
+- <small>`2024-12-25`</small> [Advent Of Code 2024](/#aoc24)
+- <small>`2024-12-21`</small> [A Simple Greedy Othello Bot In Python](/#eagerthello)
+- <small>`2024-11-02`</small> [GOLWay72: A Conway's Game Of Life Trinket](/#golway72)
+- <small>`2024-07-01`</small> [BLON BL-03: In A Sentence](/#blon-bl03)
+- <small>`2024-06-14`</small> [FG305: Helping A Computer Mouse Lose Weight](/#fg305)
+- <small>`2024-05-14`</small> [Makeshift Touch Sensitive LED Matrices](#led-matrix-touch)
+- <small>`2024-03-08`</small> [Trying Out Selenium With LLMs](/#selenium-llm)
+- <small>`2023-11-05`</small> [Linuhs: Starting To Follow Lines](/#linuhs)
+- <small>`2023-10-14`</small> [MazeBeetle: An Attempt To Micromouse](/#mazebeetle)
+- <small>`2023-03-31`</small> [MiniMate: On The Shoulders Of Companions](/#minimate)
+- <small>`2022-10-04`</small> [Qlock: A MAX7219 LED Desk Clock](/#qlock)
+- <small>`2022-03-22`</small> [KIDA: To Make A Quadruped](/#kida)
+- <small>`2021-12-25`</small> [Carros: Teaching Motor Driving And Arduino](/#carros)
+- <small>`2010-04-25`</small> [A Brief History Of Geek Code](/#geek)
