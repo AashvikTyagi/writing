@@ -22,5 +22,5 @@
 2021:
 - [Carros: Teaching Motor Driving And Arduino](/#carros)
 
-2020:
+Other:
 - [A Brief History Of Geek Code](/#geek)
