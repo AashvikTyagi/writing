@@ -2,7 +2,7 @@
 - `2024-12-25` [Advent Of Code 2024](/#aoc24)
 - `2024-12-21` [A Simple Greedy Othello Bot In Python](/#eagerthello)
 - `2024-11-02` [GOLWay72: A Conway's Game Of Life Trinket](/#golway72)
-- `2024-07-01` [Chi-Fi IEMs: BLON BL-03](/#blon-bl03)
+- `2024-07-01` [BLON BL-03: In A Sentence](/#blon-bl03)
 - `2024-06-14` [FG305: Helping A Computer Mouse Lose Weight](/#fg305)
 - `2024-05-14` [Makeshift Touch Sensitive LED Matrices](#led-matrix-touch)
 - `2024-03-08` [Trying Out Selenium With LLMs](/#selenium-llm)
