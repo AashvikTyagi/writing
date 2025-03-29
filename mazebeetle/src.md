@@ -7,8 +7,8 @@ MazeBeetle is my second attempt into making a robot that physically solve mazes,
 
 I designed ~this monstrosity~ MazeBeetle in Fusion 360 as a hexagonal clamshell ([inspiration](https://matthewtran.dev/2020/10/mmv2/)) with four screws holding the top and bottom half (`.f3d` file on the [github repo](https://github.com/AashvikTyagi/MazeBeetle)). These were 3d printed, holding held the motors, battery, and charging board inside, with `VL6180X` time of flight distance sensors, a breadboard with the `TB6612FNG` motor driver, an arduino nano, and an `MPU6050` IMU PCB, attached on the outside.
 
-![3d view of robot top half](assets/cad-top.webp)
-![3d view of robot bottom half](assets/cad-bottom.webp)
+<img href="assets/cad-top.webp" alt="3d view of robot top half" class="two">
+<img href="assets/cad-bottom.webp" alt="3d view of robot bottom half" class="two">
 
 I was able to get all hardware functions working independently, with reading three i<sup>2</sup>c sensors with the same address on the same bus, with calibrating the IMU reilably, and more, but it didn't work out due to problems with the bulkiness of the design and issues with the castors I was using.
 
