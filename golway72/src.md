@@ -7,7 +7,7 @@ The specific conditions are:
 |--------|-------|
 | <2     | dies  |
 | 2 or 3 | lives |
-| ≥4     | dies  |
+| >3     | dies  |
 | 3      | born  |
 
 
