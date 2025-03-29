@@ -3,7 +3,7 @@
 
 I've made a G305 mod that turns it into a 29 gram fingertip-grip 'mouse'.
 
-> <sub>where's the shell, dude?</sub>
+> <small>where's the shell, dude?</small>
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/fjUKtlBuGDc" allow="clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -24,4 +24,4 @@ Here's the WIP:
 
 This mouse&mdash; despite being a useful learning experience about minimizing weight while maintaining sufficient structural integrity, hand ergonomics, and modding existing hardware&mdash; isn't perfect or completely fit for everyday use: aside from being an imperfect print on an untuned printer, some design problems include suboptimal glide positions, the need for any user to adapt to my mouse grip, and the fact that in order to get a good click one must, err, break the print as I've shown in the video.
 
-<sub>time to design my own mouse PCB from scratch!</sub>
+<small>time to design my own mouse PCB from scratch!</small>

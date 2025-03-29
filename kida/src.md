@@ -13,4 +13,4 @@ Now that I have a 3d printer, I'm working on making another quadruped. A 12dof q
 
 ![proto board with soldered wires](assets/12dof-proto.webp)
 
-> <sub>KIDA is only the beginning!</sub>
+> <small>KIDA is only the beginning!</small>

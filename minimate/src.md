@@ -17,4 +17,4 @@ MiniMates can not only help keep everyone's spirits high with their limitless jo
 We've created a base for others to build upon, with made multiple functions that can be modified, customised, and improved upon by others.  
 All that we've worked on till now can be found [on our GitHub repository](https://github.com/aashviktyagi/minimate).
 
-<sub>"On The Shoulders Of Companions" [title inspiration](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) signifying the contribution of company to mental well-being.</sub>
+<small>"On The Shoulders Of Companions" [title inspiration](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) signifying the contribution of company to mental well-being.</small>
