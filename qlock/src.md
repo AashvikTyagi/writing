@@ -12,7 +12,7 @@ You can view, edit, and print the `.f3d` model from [the qlock github repo](http
 
 Fast forward three years, I'm writing this in retrospect, and I can’t find pictures of the clock, so here’s a glimpse of the individual printed brackets instead. Aren’t you lucky?
 
-<img href="assets/qlock-display.webp" alt="display module in 3d printed holder" class="two">
-<img href="assets/assets/qlock-print.webp" alt="display holder on 3d printer bed" class="two">
+<img src="assets/qlock-display.webp" alt="display module in 3d printed holder" class="two">
+<img src="assets/assets/qlock-print.webp" alt="display holder on 3d printer bed" class="two">
 
 I later found myself not using the clock, and as many of my projects end up, Qlock was dissassembled. I re-used the display and microcontroller to create a [working demo of using LED matrices as touchscreens](/#led-matrix-touch) with light level sensing. After that, it was used in a [Game of Life trinket](/#golway72).
