@@ -1,3 +1,4 @@
+2010-04-25
 # A Brief History of Geek Code
 
 Geek Code is an encoding first invented by Robert A. Hayden in 1993 and last officially updated (as of time of writing) in 1996.

@@ -1,3 +1,4 @@
+2022-03-22
 # Killer Insect Droid Automation, or KIDA
 ![robot insect side view](assets/kida.webp)
 

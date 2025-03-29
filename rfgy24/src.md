@@ -1,3 +1,4 @@
+2024-10-17
 # still writing this
 
 ![robot 3d model](assets/cad-main.avif)

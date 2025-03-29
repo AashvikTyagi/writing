@@ -1,3 +1,4 @@
+2024-12-25
 # Advent of Code 2024
 ![aoc calendar](assets/calendar.avif)
 

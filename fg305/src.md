@@ -1,3 +1,4 @@
+2024-06-14
 # Helping the Logitech G305 Lose Weight: Transformation into a <30g Feather of a Mouse
 ![view of mouse mod 3d model](assets/3d-cad.webp)
 

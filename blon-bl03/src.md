@@ -1,3 +1,4 @@
+2024-07-01
 # BLON BL-03: in a sentence.
 ![earphones](assets/iems.avif)
 

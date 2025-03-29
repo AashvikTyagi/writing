@@ -1,3 +1,4 @@
+2023-10-14
 # MazeBeetle: An Attempt to Micromouse
 ![3d view of hexagonal robot model](assets/cad-full.webp)
 

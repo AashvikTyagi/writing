@@ -1,3 +1,4 @@
+2024-03-08
 # Trying out Selenium (python) with an LLM Site
 Lately, I wanted to experiment with [Selenium](https://www.selenium.dev/documentation/) for a web-scraping idea I had.  
 Also, the python library I'd been using for a shell text completion utility, [freeGPT](https://github.com/Ruu3f/freeGPT), didn’t support context across messages.

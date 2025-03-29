@@ -1,3 +1,4 @@
+2024-11-02
 # A Conway's Game of Life Demo
 <video controls autoplay loop><source src="assets/display.webm" type="video/webm"></video>
 

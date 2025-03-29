@@ -1,3 +1,4 @@
+2024-05-14
 # LED Matrices as touchscreens!
 I recently had the idea to use low-dpi displays and light level sensing to create a 'touchscreen' of sorts, by checking light conditions when different pixels were on.
 
