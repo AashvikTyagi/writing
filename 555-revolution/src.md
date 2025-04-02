@@ -1,6 +1,8 @@
 2025-04-01
 # Doin' It With A 555: One Chip to Rule Them All
 
+![555 IC](assets/555.avif)
+
 Humans and other foreign species, **welcome** to the most groundbreaking revelation in recent electronics history. For decades, engineers and hobbyists alike have believed, **unquestioning**, in the supremacy of microcontrollers, op-amps, transistors, and all those other fancy components&mdash; only for me to tell you they can be replaced with **555 timer** ICs. _Every single one_.
 
 Today, on this most **auspicious** and **interesting** of April 1<sup>st</sup>s since [the summer of 1971](https://en.wikipedia.org/wiki/555_timer_IC#cite_note-Redesigning-8)&mdash; April 1<sup>st</sup>, 2025&mdash; I present to you the definitive guide to replacing all components with a **555 timer**. Prepare to be amazed, baffled, and (my hope is) not horrified by the sheer **brilliance** of this approach.
