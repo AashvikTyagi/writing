@@ -1,6 +1,6 @@
 2024-11-02
 # A Conway's Game of Life Demo
-<video controls autoplay loop><source src="assets/display.webm" type="video/webm"></video>
+![live automaton display](assets/display.avif)
 
 Mathematician John Horton Conway's Game of Life is a cellular automaton designed by him in 1970, featuring populated and dead cells on an infinite 2d square grid. Each 'tick', the state of a cell changes depending on the number of neighbours it had in the previous tick, simulating life in a community.  
 The specific conditions are:
@@ -18,9 +18,9 @@ Written in C (I used PlatformIO), it begins with a random state and resets every
 
 Given that it starts from a (pseudo-)random state, it's interesting how often it happens to generate well-documented, [known patterns](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Examples_of_patterns)! For example, here's an infinite [glider](https://en.wikipedia.org/wiki/Glider_(Conway%27s_Game_of_Life)):
 
-<img src="assets/glider.webp" alt="glider pattern on led display" class="two">
-<img src="assets/oscillator.webp" alt="oscillating pattern on display" class="two">
+<img src="assets/glider.avif" alt="glider pattern on led display" class="two">
+<img src="assets/oscillator.avif" alt="oscillating pattern on display" class="two">
 
 Creating this small project was, naturally, a trivial exercise for one of such advanced technical prowess, and the satisfaction derived from observing it is, in the most understated sense, quite delightful.
 
-![name of display written in pen](assets/name.webp)
+![name of display written in pen](assets/name.avif)

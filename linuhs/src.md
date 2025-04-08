@@ -2,7 +2,7 @@
 # Linuhs
 This is to document experience till now with building a line following robot [Linuhs] and taking it to win a competition!
 
-![robot view](assets/linuhs.webp)
+![robot view](assets/linuhs.avif)
 
 ## hardware
 The core of Linuhs was a WeAct Black Pill board (STM32f411CEU6), but an Arduino Nano could have easily handled the task.
@@ -12,7 +12,7 @@ Two N20 motors, driven by a DRV8833 motor driver, were rated for 1000rpm at 6V. 
 For line following, I used an HY-S301 sensor array, which has 8 IR emitter-transistor pairs to detect ground color via reflected IR light. While often mislabelled online as a Pololu QTR sensor, it’s a basic analog sensor with power, ground, enable, and 8 analog outputs.  
 Here's a picture of the hand-wired sensor array I made on a protoboard and originally intended on using before it broke:
 
-![sensor array on protoboard](assets/proto-sensor-array.webp)
+![sensor array on protoboard](assets/proto-sensor.avif)
 
 The robot was powered by a 9V rechargeable battery and regulated to 3.3V for the MCU and sensors by an LM2596 buck converter.
 

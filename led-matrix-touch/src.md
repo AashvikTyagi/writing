@@ -6,7 +6,7 @@ I decided to make a demo of my idea using the MAX7219-controlled 8x32 led matrix
 
 The demo here works by having an STM32f103 'Blue Pill' board rapidly illuminating each pixel of the display one after the other and use ubiquitous LDR resistors to check whether any light was sensed (after an initial ambient light calibration) at each moment. Here's an example clip:
 
-![led matrix display](assets/display.webp)
+![led matrix display](assets/display.avif)
 
 By knowing which pixels' light was blocked from reaching the photoresistor, the program I wrote in STM32CubeIDE could send the computer, over serial, which cells were blocked. For synchronizing the sensing to work reliably, I ended up slowing down the LED speed drastically.
 
