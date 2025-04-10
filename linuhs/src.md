@@ -50,4 +50,4 @@ Some ideas I want to incorporate into my next line follower are:
 - polyurethane robot wheels
 - a **[lot](https://github.com/michalnand/motoko_uprising)** of **[the](https://github.com/michalnand/motoko_uprising_new)** ideas **[from](https://github.com/michalnand/motoko_ice_dragon)** michalnand's **[works](https://github.com/michalnand/motoko_ice_dragon_x)**
 
-Hope you learned something too.
+Hope you learnt something too!
