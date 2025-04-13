@@ -13,7 +13,7 @@ The `.f3d` file is available on the [fg305 github repo](https://github.com/Aashv
 The 3d-printed parts were made on an Ender 5 Pro and constitute the frame and clicks I designed in Fusion 360 and a [battery holder by MatNS](https://www.thingiverse.com/thing:4725120).
 Here's an older version fresh on the print bed:
 
-![view of mouse mod on 3d printer bed plate](assets/print-bed.avif)
+![view of mouse mod on 3d printer bed plate](assets/print.avif)
 
 I attached the original PCB to the frame using some of the included screws and an AAA battery. The assembly, which I've shown in detail in the video, involved screwing in the PCB, then switches, then battery and clicks.
 
