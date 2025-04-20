@@ -1,6 +1,6 @@
 2024-12-21
 # Eagerthello
-```
+<center>```
 O O O O O O O O
 O O ■ ■ ■ ■ O O
 O ■ ■ O O ■ ■ O
@@ -9,7 +9,7 @@ O ■ O O ■ ■ ■ O
 O ■ ■ O O ■ O O
 O O ■ ■ ■ ■ O O
 O O O O O O O O
-```
+```</center>
 
 I wrote a simple 25loc othello-playing script for an online hackathon-style competition.
 For shits, I decided to forego any strategy and leave the bot to greedily pick the most instantly-gratifying disc that'd flank the most discs of the opponent.
